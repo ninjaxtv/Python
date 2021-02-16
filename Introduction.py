@@ -1,0 +1,5 @@
+name = input("What is your name: ")
+age = input("What is your age: ")
+Fav_colour = input("What is your favourite colour: ")
+Food = input("What do you like to eat: ")
+print("So your name is " + name + " , your age is " + age + " , your favourite colour is " + Fav_colour + " and your favourite food is " + Food)
